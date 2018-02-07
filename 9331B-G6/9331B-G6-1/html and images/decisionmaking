@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+ 	<title>CityCampProper| The Officials</title>
+ 	<link rel="stylesheet" href="home.css">
+
+ 	</head>
+ <body>
+
+	<img src="citycamplogo.png" width="100" height="100" alt="citycamplogo">
+	<img src="BaguioLogo.png" width="100" height="100" alt="BaguioLogo">
+
+	
+	<a class="active" href="index.html">Home </a>
+ 	<a href="theofficials.html">The Officials </a>
+ 		<a href="goodgovernance.html">Good Governance </a>
+ 		<a href="decisionmaking.html">Decision Making</a>
+ 		<a href="goodgovcitycamp.html">Good Governance in City Camp Proper</a>
+ 		<a href="documents.html">Documents</a>
+ 		<a href="awards.html">Awards </a>
+ 	<a href="gallery.html">Gallery </a>
+
+	<h2>City Camp Proper</h2>
+
+		<h3>Decision Making</h3>
+
+		<p>This is where they usually conduct formal meetings, setting their agenda, and the distribution of works. All the reports coming from the environment, peace and order and from other committees are carefully discussed in here to come up with solutions and further improvements to address the concerns and problems in their barangay.</p>
+
+
+<hr class="line7">
+
+<br/>
+    <br/>
+
+		<hr class="line3">
+<img src="SLULogo.jpg" width="50" height="75" alt="SLULogo">
+	<div class="navbar">
+	<a href="contact" class="active">Contact Us</a>
+	<a href="about">About</a>
+	<a href="ref">Site References</a>
+	<h6>School of Computing and Information Sciences</h6>
+    	Saint Louis University Baguio City 2600
+	
+</div>
+
+
+</body>
+</html>
